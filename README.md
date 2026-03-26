@@ -6,9 +6,6 @@
 <a href="https://www.linkedin.com/in/alice-perim/">
   <img src="https://img.shields.io/badge/LinkedIn-Alice%20Perim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/alice_perim/">
-  <img src="https://img.shields.io/badge/Instagram-@alice__perim-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
 
 </div>
 
