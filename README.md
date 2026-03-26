@@ -1,7 +1,7 @@
 <div align="center">
 
-# Alice Perim ✨
-### Software Developer | Python • Dados • Projetos Acadêmicos
+# Alice Perim 👩‍💻
+### Software Developer | Python • Dados • Backend
 
 <a href="https://www.linkedin.com/in/alice-perim/">
   <img src="https://img.shields.io/badge/LinkedIn-Alice%20Perim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
