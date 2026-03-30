@@ -65,8 +65,6 @@ Desenvolvedora backend focada em construir APIs robustas e automatizar processos
 
 <div align="center">
 
-![Alice's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliceperim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliceperim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
 </div>
