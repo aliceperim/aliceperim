@@ -57,7 +57,7 @@ Desenvolvedora backend focada em construir APIs robustas e automatizar processos
 
 🎓 Sistemas de Informação — FAESA (em andamento)  
 🎓 Engenharia de Produção — UFES (7 períodos concluídos)  
-💼 Analista de TI Pleno — Unit
+💼 Desenvolvedora Pleno — Globalsys
 
 ---
 
